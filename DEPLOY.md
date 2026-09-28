@@ -1,9 +1,9 @@
 # MOSAIC — Vision & Foundations: live document
 
 **It is already live here:**
-**https://aow2-mfl-cgiar-science-program.github.io/MOSAIC_vision_foundation/**
+**https://mosaic-mfl.github.io/vision-foundations/**
 
-- Repo: https://github.com/AoW2-MFL-CGIAR-Science-Program/MOSAIC_vision_foundation
+- Repo: https://github.com/MOSAIC-mfl/vision-foundations
 - The Microsoft Form (https://forms.cloud.microsoft/e/wcgeFbHJCM) is embedded in
   Section 13, and the CGIAR logo is embedded in the file, so `index.html` is fully
   self-contained.
